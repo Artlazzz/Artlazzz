@@ -8,10 +8,9 @@
 
 👨🏻‍🎓 Formado em Ciência da Computação e realizando cursos complementares em desenvolvimento Mobile e Front-end na EBAC.
 
-💻 Apaixonado por tecnologia e pela área de desenvolvimento mobile e web, buscando eloluir e trocar da aréa de HelpDesk para Desenvolvedor.
+💻 Apaixonado por tecnologia e pela área de desenvolvimento mobile e web, buscando eloluir e migrar da aréa de HelpDesk para Desenvolvedor.
 
-🎮 Gosto de Video Games, séries, animes, sou um entusiasta no uso da tecnologias para ajudar
-no desenvolvimento de criançar com necessidades especiais
+🎮 Gosto de Video Games, séries, animes, musica e claro a famosa gelada com os amigos hahaha.
 
 <br>
 
@@ -27,7 +26,9 @@ no desenvolvimento de criançar com necessidades especiais
 
 ## ✉ Onde me encontrar:
 
+[![Linkedin: Arthur Lino](https://img.shields.io/badge/-ArthurLino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-lazzarini-lino-755267268/)](https://www.linkedin.com/in/arthur-lazzarini-lino-755267268/)
 [![Gmail Badge](https://img.shields.io/badge/-MeuGmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.llino97@gmail.com)](mailto:arthur.llino97@gmail.com)
+[![GitHub ArthurLino]( https://img.shields.io/github/followers/ArthurLino?label=follow&style=social)](https://github.com/OARTHURLINO)
 
 <br>
 
